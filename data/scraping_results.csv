@@ -1,10 +1,5 @@
-shop_name,product_name,product_price,sold
-Samsung Official Store,"Samsung Galaxy S24 FE [8/256] - [Blue, Graphite, Gray] Smartphone AI, AI Phone, Handphone AI, Kamera 50MP, Layar besar, RAM besar, Baterai tahan lama - Blue",Rp9.999.000,Terjual 50+•Diskusi (4)
-Xiaomi Official Store,"XIAOMI OFFICIAL Redmi Note 12 Pro 5G Kamera 50MP Sony IMX766 P-OLED - Sky Blue, 8/256GB",Rp3.599.100,Terjual 5 rb+•bintang 4.9 (2.827 rating)•Diskusi (414)
-Infinix Official Store,"Infinix Smart 8 Pro 8/128GB- Up to 16GB Extended RAM - 6.6"" - Timber Black",Rp1.369.000,Terjual 3 rb+•bintang 4.9 (1.376 rating)•Diskusi (39)
-Samsung Official Store,"Samsung Galaxy S24 FE [8/256] - [Blue, Graphite, Gray] Smartphone AI, AI Phone, Handphone AI, Kamera 50MP, Layar besar, RAM besar, Baterai tahan lama - Blue",Rp9.999.000,Terjual 50+•Diskusi (4)
-Infinix Official Store,"Infinix Smart 8 Pro 8/128GB- Up to 16GB Extended RAM - 6.6"" - Timber Black",Rp1.369.000,Terjual 3 rb+•bintang 4.9 (1.376 rating)•Diskusi (39)
-mnn gadget,"GOOGLE PIXEL 6 PRO 5G - RAM 12GB INTERNAL 128GB 256GB 512GB ALL SIM - 90-97%SHD TEBAL, PERMANEN",Rp3.500.000,Terjual 100+•bintang 4.8 (75 rating)•Diskusi (25)
-Xiaomi Official Store,"Official Xiaomi Redmi 13 (8GB/128GB) | (8GB/256GB) | Kamera 108 MP Super Jernih MediaTek Helio G91-Ultra 33W Fast Charging - Ocean Blue, 8+128GB",Rp1.799.000,Terjual 1 rb+•bintang 5 (792 rating)•Diskusi (43)
-Xiaomi Official Store,"Official Xiaomi Redmi Note 13 Pro+ 5G | Layar AMOLED 1,5K 120 Hz - Purple 12+512G",Rp5.899.000,Terjual 1 rb+•bintang 4.9 (862 rating)•Diskusi (142)
-iSmile Official Store,"Apple iPhone 15 Garansi Resmi - 128GB 256GB 512GB - Promo Black, 128GB",Rp13.529.000,Terjual 3 rb+•bintang 5 (1.783 rating)•Diskusi (115)
+shop_name,product_name,product_price,sold,brand,ram
+Samsung Official Store,"Samsung Galaxy S24 FE [8/256] - [Blue, Graphite, Gray] Smartphone AI, AI Phone, Handphone AI, Kamera 50MP, Layar besar, RAM besar, Baterai tahan lama - Blue",Rp9.999.000,Terjual 90+•Diskusi (7),Samsung,8 GB
+OPPO OFFICIAL STORE,OPPO A3x 4GB(+4GB)/64GB (Garansi Resmi) - Biru,Rp1.599.000,Terjual 100+•bintang 4.9 (72 rating)•Diskusi (5),Garansi Merek (Resmi),Null
+Samsung Official Store,"Samsung Galaxy S24 FE [8/256] - [Blue, Graphite, Gray] Smartphone AI, AI Phone, Handphone AI, Kamera 50MP, Layar besar, RAM besar, Baterai tahan lama - Blue",Rp9.999.000,Terjual 90+•Diskusi (7),Samsung,8 GB
+OPPO OFFICIAL STORE,OPPO A3x 4GB(+4GB)/64GB (Garansi Resmi) - Biru,Rp1.599.000,Terjual 100+•bintang 4.9 (72 rating)•Diskusi (5),Garansi Merek (Resmi),Null
